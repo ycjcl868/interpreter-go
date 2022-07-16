@@ -40,4 +40,6 @@ Major Parts
 
 ### Parsing
 
+A parser is a software component that takes input data (frequently text) and builds a data structure
+
 ### Evaluation
