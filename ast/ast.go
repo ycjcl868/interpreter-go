@@ -1,6 +1,6 @@
 package ast
 
-import "interpreter/token"
+import "github.com/ycjcl868/interpreter-go/token"
 
 type Node interface {
 	// just for debug and test
